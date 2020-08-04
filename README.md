@@ -1,5 +1,5 @@
 # Project-Ideas
-Things that pop in my head to code alone or as a group.
+Things that pop in my head to code alone or as a group (randomly)
 
 - [ ] Do the Github Profile thing// ReadMe thing.
 - [ ] React native app that tracts your steps and show it on a map, has authentication, adds walk to calender (Moonshot👀 ).
