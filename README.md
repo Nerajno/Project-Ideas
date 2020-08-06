@@ -6,5 +6,6 @@ Things that pop in my head to code alone or as a group (randomly)
 - [ ] An app the finds all the driveIn movie theaters nearby. {auth, backend, frontend, hosted and live for both parts, has favourites and comments, has friends = Moonshot👀 }. 
 - [ ] Simple note book app {front end : React, auth +/- Redux// Ruby, Postgress }
 - [ ] Simple app that shows moonrise and phase of the moon based on location.
-- [ ] Github project grave yard (using basic HTML,CSS and JS)
-- [ ] Github project purgatory ( using React)
+- [ ] Github project grave yard (using basic HTML,CSS and JS)[explain why they were built and abandoned, tech used, screenshot]
+- [ ] Github project purgatory ( using React)[explain why they were built and abandoned, tech used, screenshot]
+
