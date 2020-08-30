@@ -8,4 +8,5 @@ Things that pop in my head to code alone or as a group (randomly)
 - [ ] Simple app that shows moonrise and phase of the moon based on location.
 - [ ] Github project grave yard (using basic HTML,CSS and JS)[explain why they were built and abandoned, tech used, screenshot]
 - [ ] Github project purgatory ( using React)[explain why they were built and abandoned, tech used, screenshot]
+- [ ] Yacker - Tracker (Plain JS, CSS, HTML || React) to track the volume of noise in a room.
 
