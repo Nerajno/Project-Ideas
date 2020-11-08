@@ -10,4 +10,6 @@ Things that pop in my head to code alone or as a group (randomly)
 - [ ] Github project purgatory ( using React)[explain why they were built and abandoned, tech used, screenshot]
 - [ ] Yacker - Tracker (Plain JS, CSS, HTML || React) to track the volume of noise in a room.
 - [ ] A freecodecamp Atl page with calender { will expand later}
+- [ ] Howler
+- [ ] Crud based count down timer
 
