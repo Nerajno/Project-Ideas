@@ -11,5 +11,5 @@ Things that pop in my head to code alone or as a group (randomly)
 - [ ] Yacker - Tracker (Plain JS, CSS, HTML || React) to track the volume of noise in a room.
 - [ ] A freecodecamp Atl page with calender { will expand later}
 - [ ] Howler
-- [ ] Crud based count down timer
+- [ ] Crud based count down timer ( Vanilla JS && Ruby)
 
